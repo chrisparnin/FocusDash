@@ -5,5 +5,11 @@
   "1468009562": "testing pull logic",
   "1468019182": "hello",
   "1468019240": "hello2",
-  "1468019635": "testing message logging"
+  "1468019635": "testing message logging",
+  "1468019748": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "testing message logging, write options instead",
+    "remote": "https://github.com/chrisparnin/FocusDash.git"
+  }
 }
