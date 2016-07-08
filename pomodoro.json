@@ -17,5 +17,10 @@
     "tick": true,
     "remote": "https://github.com/chrisparnin/FocusDash.git",
     "message": "no goal specified"
+  },
+  "1468020113": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "no goal specified"
   }
 }
