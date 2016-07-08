@@ -3,12 +3,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "testing message logging, write options instead",
-    "remote": "https://github.com/chrisparnin/FocusDash.git"
   },
   "1468020044": {
     "pomodoro": true,
     "tick": true,
-    "remote": "https://github.com/chrisparnin/FocusDash.git",
     "message": "no goal specified"
   },
   "1468020113": {
