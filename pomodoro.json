@@ -28,5 +28,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "Answering emails"
+  },
+  "1468331981": {
+    "solid": true,
+    "length": 15,
+    "message": "Thinking about baseline tasks for program comprehension"
   }
 }
