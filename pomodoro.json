@@ -23,5 +23,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "basic logging working\\!"
+  },
+  "1468330204": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Answering emails"
   }
 }
