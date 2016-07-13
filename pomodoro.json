@@ -51,5 +51,9 @@
   "1468422507": {
     "pomodoro": true,
     "message": "updating playbook and building cluster"
+  },
+  "1468427266": {
+    "pomodoro": true,
+    "message": "debugging spark cluster setup"
   }
 }
