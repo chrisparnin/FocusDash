@@ -47,5 +47,9 @@
   "1468420603": {
     "pomodoro": true,
     "message": "debuggin ssh keys with digitalocean"
+  },
+  "1468422507": {
+    "pomodoro": true,
+    "message": "updating playbook and building cluster"
   }
 }
