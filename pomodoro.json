@@ -38,5 +38,10 @@
     "solid": true,
     "length": 15,
     "message": "warmup"
+  },
+  "1468419640": {
+    "solid": true,
+    "length": 15,
+    "message": "using autospark to provision a spark cluster"
   }
 }
