@@ -43,5 +43,9 @@
     "solid": true,
     "length": 15,
     "message": "using autospark to provision a spark cluster"
+  },
+  "1468420603": {
+    "pomodoro": true,
+    "message": "debuggin ssh keys with digitalocean"
   }
 }
