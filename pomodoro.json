@@ -55,5 +55,9 @@
   "1468427266": {
     "pomodoro": true,
     "message": "debugging spark cluster setup"
+  },
+  "1468504739": {
+    "pomodoro": true,
+    "message": "starting from scratch, spark clusters"
   }
 }
