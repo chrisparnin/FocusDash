@@ -103,5 +103,10 @@
     "length": 15,
     "solid": true,
     "message": "warmup"
+  },
+  "1469126433": {
+    "length": 50,
+    "solid": true,
+    "message": "reading psychology of programming"
   }
 }
