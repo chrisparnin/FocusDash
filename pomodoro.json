@@ -133,5 +133,10 @@
     "length": 45,
     "solid": true,
     "message": "research plans/emails"
+  },
+  "1469628724": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "no goal specified"
   }
 }
