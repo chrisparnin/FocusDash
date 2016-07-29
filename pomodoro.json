@@ -163,5 +163,10 @@
     "solid": true,
     "length": 15,
     "message": "warming up"
+  },
+  "1469815492": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Undergrad Research descriptions"
   }
 }
