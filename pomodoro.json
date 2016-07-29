@@ -158,5 +158,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "FSE camera ready"
+  },
+  "1469814534": {
+    "solid": true,
+    "length": 15,
+    "message": "warming up"
   }
 }
