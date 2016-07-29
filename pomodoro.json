@@ -153,5 +153,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "ASE notices"
+  },
+  "1469802542": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "FSE camera ready"
   }
 }
