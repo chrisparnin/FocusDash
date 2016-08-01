@@ -188,5 +188,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "no goal specified"
+  },
+  "1470060629": {
+    "length": 15,
+    "solid": true,
+    "message": "warmup"
   }
 }
