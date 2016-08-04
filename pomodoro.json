@@ -227,5 +227,10 @@
   "1470340999": {
     "pomodoro": true,
     "message": "email"
+  },
+  "1470343241": {
+    "solid": true,
+    "length": 15,
+    "message": "seminar email"
   }
 }
