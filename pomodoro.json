@@ -237,5 +237,9 @@
     "solid": true,
     "length": 15,
     "message": "warming up"
+  },
+  "1470404451": {
+    "pomodoro": true,
+    "message": "excel-ent"
   }
 }
