@@ -270,5 +270,9 @@
     "solid": true,
     "length": 15,
     "message": "warmup"
+  },
+  "1470749904": {
+    "pomodoro": true,
+    "message": "expert"
   }
 }
