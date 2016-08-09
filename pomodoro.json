@@ -279,5 +279,9 @@
     "solid": true,
     "length": 15,
     "message": "warmup"
+  },
+  "1470771858": {
+    "pomodoro": true,
+    "message": "excel"
   }
 }
