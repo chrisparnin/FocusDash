@@ -328,5 +328,10 @@
   "1471026214": {
     "pomodoro": true,
     "message": "working guidelines"
+  },
+  "1471029700": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "working with students"
   }
 }
