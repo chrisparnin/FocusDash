@@ -419,5 +419,10 @@
     "length": 30,
     "solid": true,
     "message": "project description 510."
+  },
+  "1471527043": {
+    "length": 15,
+    "message": "no goal specified",
+    "solid": true
   }
 }
