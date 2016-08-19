@@ -444,5 +444,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "preparing lecture"
+  },
+  "1471626515": {
+    "length": 22,
+    "solid": true,
+    "message": "email blast"
   }
 }
