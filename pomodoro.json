@@ -449,5 +449,10 @@
     "length": 22,
     "solid": true,
     "message": "email blast"
+  },
+  "1471875529": {
+    "length": 15,
+    "message": "no goal specified",
+    "solid": true
   }
 }
