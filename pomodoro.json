@@ -479,5 +479,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "class prepp"
+  },
+  "1472152748": {
+    "length": 11,
+    "message": "no goal specified",
+    "solid": true
   }
 }
