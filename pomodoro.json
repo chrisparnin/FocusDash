@@ -489,5 +489,10 @@
     "length": 11,
     "message": "no goal specified",
     "solid": true
+  },
+  "1472155979": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "Excel 3.B.2"
   }
 }
