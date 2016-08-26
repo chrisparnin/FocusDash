@@ -494,5 +494,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "Excel 3.B.2"
+  },
+  "1472180733": {
+    "length": 15,
+    "solid": true,
+    "message": "mindfulness.",
+    "lightness": 0.5
   }
 }
