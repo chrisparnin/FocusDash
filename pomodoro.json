@@ -512,5 +512,11 @@
     "solid": true,
     "message": "writing.",
     "lightness": 0.7
+  },
+  "1472185276": {
+    "length": 45,
+    "solid": true,
+    "message": "writing (ballmer peak)",
+    "lightness": 0.7
   }
 }
