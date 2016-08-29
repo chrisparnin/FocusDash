@@ -527,5 +527,10 @@
   "1472482265": {
     "pomodoro": true,
     "message": "thinking about theory and tools"
+  },
+  "1472484157": {
+    "length": 15,
+    "solid": true,
+    "message": "mindfulness."
   }
 }
