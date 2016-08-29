@@ -546,5 +546,10 @@
     "length": 22,
     "solid": true,
     "message": "task load index thinking."
+  },
+  "1472508723": {
+    "length": 22,
+    "solid": true,
+    "message": "foreach macro."
   }
 }
