@@ -536,5 +536,10 @@
   "1472485079": {
     "pomodoro": true,
     "message": "picking a tool to study"
+  },
+  "1472495920": {
+    "length": 10,
+    "solid": true,
+    "message": "mindfulness."
   }
 }
