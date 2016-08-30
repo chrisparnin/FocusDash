@@ -580,5 +580,10 @@
   "1472563054": {
     "length": 40,
     "message": "bots"
+  },
+  "1472563305": {
+    "length": 40,
+    "message": "bots",
+    "solid": true
   }
 }
