@@ -576,5 +576,9 @@
     "length": 11,
     "message": "no goal specified",
     "solid": true
+  },
+  "1472563054": {
+    "length": 40,
+    "message": "bots"
   }
 }
