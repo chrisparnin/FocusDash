@@ -600,5 +600,10 @@
     "length": 18,
     "solid": true,
     "message": "CM slides rework."
+  },
+  "1472585540": {
+    "length": 11,
+    "message": "no goal specified",
+    "solid": true
   }
 }
