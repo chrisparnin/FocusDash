@@ -605,5 +605,10 @@
     "length": 11,
     "message": "no goal specified",
     "solid": true
+  },
+  "1472586977": {
+    "length": 30,
+    "message": "research garden",
+    "solid": true
   }
 }
