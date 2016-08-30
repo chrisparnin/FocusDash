@@ -571,5 +571,10 @@
     "length": 25,
     "message": "high priority message responses",
     "solid": true
+  },
+  "1472561727": {
+    "length": 11,
+    "message": "no goal specified",
+    "solid": true
   }
 }
