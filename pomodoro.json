@@ -663,5 +663,9 @@
   "1473191219": {
     "length": 15,
     "message": "warmup"
+  },
+  "1473194866": {
+    "pomodoro": true,
+    "message": "canceling meetings"
   }
 }
