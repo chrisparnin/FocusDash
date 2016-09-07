@@ -667,5 +667,10 @@
   "1473194866": {
     "pomodoro": true,
     "message": "canceling meetings"
+  },
+  "1473256995": {
+    "length": 15,
+    "message": "mindfulness",
+    "solid": true
   }
 }
