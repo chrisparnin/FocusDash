@@ -1412,5 +1412,10 @@
     "solid": true,
     "length": 15,
     "message": "mind"
+  },
+  "1478011820": {
+    "solid": true,
+    "length": 20,
+    "message": "no goal specified"
   }
 }
