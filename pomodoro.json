@@ -1457,5 +1457,10 @@
     "solid": true,
     "length": 24,
     "message": "email dash"
+  },
+  "1478203421": {
+    "solid": true,
+    "length": 50,
+    "message": "class dash"
   }
 }
