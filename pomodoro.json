@@ -1473,5 +1473,10 @@
     "length": 15,
     "tick": true,
     "message": "no goal specified"
+  },
+  "1478276908": {
+    "message": "mind",
+    "pomodoro": true,
+    "tick": true
   }
 }
