@@ -1488,5 +1488,10 @@
     "solid": true,
     "length": 12,
     "message": "mindfulness"
+  },
+  "1478463392": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "mind"
   }
 }
