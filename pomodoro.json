@@ -1523,5 +1523,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "writing"
+  },
+  "1478790635": {
+    "message": "eco",
+    "pomodoro": true,
+    "tick": true
   }
 }
