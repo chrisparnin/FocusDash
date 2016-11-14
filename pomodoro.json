@@ -1556,5 +1556,10 @@
   "1479159085": {
     "pomodoro": true,
     "message": "slides"
+  },
+  "1479160898": {
+    "length": 30,
+    "solid": true,
+    "message": "slides"
   }
 }
