@@ -1567,5 +1567,9 @@
     "solid": true,
     "message": "writing",
     "lightness": 0.7
+  },
+  "1479740775": {
+    "pomodoro": true,
+    "message": "awake"
   }
 }
