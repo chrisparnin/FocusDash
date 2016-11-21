@@ -1571,5 +1571,9 @@
   "1479740775": {
     "pomodoro": true,
     "message": "awake"
+  },
+  "1479745722": {
+    "pomodoro": true,
+    "message": "break"
   }
 }
