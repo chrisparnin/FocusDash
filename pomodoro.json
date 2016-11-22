@@ -1575,5 +1575,10 @@
   "1479745722": {
     "pomodoro": true,
     "message": "break"
+  },
+  "1479825149": {
+    "message": "mind",
+    "pomodoro": true,
+    "tick": true
   }
 }
