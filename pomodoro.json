@@ -1585,5 +1585,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "mindfulness"
+  },
+  "1480352368": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "criteria"
   }
 }
