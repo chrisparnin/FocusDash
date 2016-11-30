@@ -1610,5 +1610,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "ansible"
+  },
+  "1480514517": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "mind"
   }
 }
