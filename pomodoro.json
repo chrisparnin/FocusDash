@@ -1645,5 +1645,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "study guide"
+  },
+  "1480949470": {
+    "message": "mind",
+    "pomodoro": true,
+    "tick": true
   }
 }
