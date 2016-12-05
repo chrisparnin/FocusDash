@@ -1670,5 +1670,10 @@
     "message": "exam",
     "pomodoro": true,
     "tick": true
+  },
+  "1480970601": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "mind+clayton"
   }
 }
