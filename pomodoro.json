@@ -1691,5 +1691,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "warmup"
+  },
+  "1483641999": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "vagrant"
   }
 }
