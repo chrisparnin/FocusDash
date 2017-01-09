@@ -1701,5 +1701,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "vagrant II"
+  },
+  "1483993434": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "fatigue"
   }
 }
