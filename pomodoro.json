@@ -1721,5 +1721,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "warm"
+  },
+  "1484151429": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "fatigue methodology"
   }
 }
