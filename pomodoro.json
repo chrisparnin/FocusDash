@@ -1751,5 +1751,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "test"
+  },
+  "1484669430": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "no goal specified"
   }
 }
