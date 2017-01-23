@@ -1795,5 +1795,10 @@
   "1485037066": {
     "pomodoro": true,
     "message": "warm"
+  },
+  "1485183470": {
+    "pomodoro": true,
+    "message": "no goal specified",
+    "tick": true
   }
 }
