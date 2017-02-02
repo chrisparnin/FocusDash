@@ -1865,5 +1865,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "names"
+  },
+  "1486047759": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "projects"
   }
 }
