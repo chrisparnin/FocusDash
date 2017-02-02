@@ -1870,5 +1870,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "projects"
+  },
+  "1486049306": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "checkbox.io ready"
   }
 }
