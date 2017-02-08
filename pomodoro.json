@@ -2012,5 +2012,10 @@
     "length": 4,
     "asmr": true,
     "message": "no goal specified"
+  },
+  "1486562306": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "warm"
   }
 }
