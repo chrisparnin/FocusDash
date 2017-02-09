@@ -2037,5 +2037,11 @@
     "relax": true,
     "length": 4,
     "message": "no goal specified"
+  },
+  "1486656580": {
+    "relax": true,
+    "length": 4,
+    "asmr": true,
+    "message": "no goal specified"
   }
 }
