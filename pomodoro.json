@@ -2032,5 +2032,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "irb"
+  },
+  "1486656571": {
+    "relax": true,
+    "length": 4,
+    "message": "no goal specified"
   }
 }
