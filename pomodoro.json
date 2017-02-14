@@ -2203,5 +2203,10 @@
     "length": 8,
     "asmr": true,
     "message": "no goal specified"
+  },
+  "1487083701": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "fse-td"
   }
 }
