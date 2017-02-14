@@ -2208,5 +2208,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "fse-td"
+  },
+  "1487098101": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "review"
   }
 }
