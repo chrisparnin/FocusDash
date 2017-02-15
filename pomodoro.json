@@ -2213,5 +2213,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "review"
+  },
+  "1487176088": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
