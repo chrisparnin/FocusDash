@@ -2326,5 +2326,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "workshop"
+  },
+  "1488163597": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
