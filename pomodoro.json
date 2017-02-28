@@ -2376,5 +2376,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1488293977": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "midterm review"
   }
 }
