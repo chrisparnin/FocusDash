@@ -2370,5 +2370,11 @@
   "1488208660": {
     "pomodoro": true,
     "message": "brains"
+  },
+  "1488289019": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
