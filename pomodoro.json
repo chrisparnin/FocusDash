@@ -2405,5 +2405,10 @@
     "seasound": true,
     "length": 5,
     "message": "no goal specified"
+  },
+  "1488381454": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "semotion"
   }
 }
