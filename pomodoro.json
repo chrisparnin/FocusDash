@@ -2492,5 +2492,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1490281296": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "coe slides"
   }
 }
