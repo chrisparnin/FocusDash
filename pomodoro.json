@@ -2552,5 +2552,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1490882364": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "budget"
   }
 }
