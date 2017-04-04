@@ -2624,5 +2624,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1491318380": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "milestone"
   }
 }
