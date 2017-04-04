@@ -2639,5 +2639,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "hw"
+  },
+  "1491333129": {
+    "relax": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
