@@ -2600,5 +2600,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "dossier"
+  },
+  "1491310056": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
