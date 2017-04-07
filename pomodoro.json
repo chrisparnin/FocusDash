@@ -2701,5 +2701,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "do it"
+  },
+  "1491571761": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
