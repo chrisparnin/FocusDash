@@ -2761,5 +2761,11 @@
     "length": 20,
     "tick": true,
     "message": "git code"
+  },
+  "1492089999": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
