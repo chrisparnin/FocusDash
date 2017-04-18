@@ -2794,5 +2794,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "attention shifts"
+  },
+  "1492549849": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "write"
   }
 }
