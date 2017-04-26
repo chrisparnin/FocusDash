@@ -2866,5 +2866,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1493220206": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "ase setup"
   }
 }
