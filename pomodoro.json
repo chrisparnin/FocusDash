@@ -3134,5 +3134,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1494509984": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "power discussion"
   }
 }
