@@ -3181,5 +3181,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1494857742": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "UNC R"
   }
 }
