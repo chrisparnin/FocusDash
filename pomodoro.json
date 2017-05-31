@@ -3211,5 +3211,10 @@
   "1496255993": {
     "pomodoro": true,
     "message": "data wrangling finish"
+  },
+  "1496256004": {
+    "pomodoro": true,
+    "message": "no goal specified",
+    "tick": true
   }
 }
