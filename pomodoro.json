@@ -3308,5 +3308,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1499778371": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "career bootstrap"
   }
 }
