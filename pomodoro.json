@@ -3324,5 +3324,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1499956500": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "career things"
   }
 }
