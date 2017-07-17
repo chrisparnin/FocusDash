@@ -3356,5 +3356,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "career work"
+  },
+  "1500302519": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "career finish"
   }
 }
