@@ -3388,5 +3388,10 @@
   "1500396965": {
     "pomodoro": true,
     "message": "career instrument"
+  },
+  "1500396974": {
+    "pomodoro": true,
+    "message": "no goal specified",
+    "tick": true
   }
 }
