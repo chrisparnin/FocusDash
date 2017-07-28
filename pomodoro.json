@@ -3432,5 +3432,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "start devops writing"
+  },
+  "1501249294": {
+    "pomodoro": true,
+    "message": "no goal specified",
+    "tick": true
   }
 }
