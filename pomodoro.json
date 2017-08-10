@@ -3589,5 +3589,10 @@
     "asmr": true,
     "length": 5,
     "message": "no goal specified"
+  },
+  "1502378663": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "start teststested template"
   }
 }
