@@ -3605,5 +3605,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1502461644": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "agenda"
   }
 }
