@@ -3621,5 +3621,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "teststested"
+  },
+  "1502732842": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "env"
   }
 }
