@@ -3610,5 +3610,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "agenda"
+  },
+  "1502718375": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
