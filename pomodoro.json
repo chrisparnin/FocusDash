@@ -3655,5 +3655,10 @@
     "asmr": true,
     "length": 5,
     "message": "no goal specified"
+  },
+  "1502820164": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "email and calendars"
   }
 }
