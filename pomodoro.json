@@ -3626,5 +3626,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "env"
+  },
+  "1502803201": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
