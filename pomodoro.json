@@ -3666,5 +3666,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1502890792": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "class schedules"
   }
 }
