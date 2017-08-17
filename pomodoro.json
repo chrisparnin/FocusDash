@@ -3694,5 +3694,10 @@
     "asmr": true,
     "length": 5,
     "message": "no goal specified"
+  },
+  "1502977829": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "class"
   }
 }
