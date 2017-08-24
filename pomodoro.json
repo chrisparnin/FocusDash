@@ -3771,5 +3771,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "class prep"
+  },
+  "1503590375": {
+    "length": 3,
+    "solid": true,
+    "message": "no goal specified"
   }
 }
