@@ -3813,5 +3813,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "bots"
+  },
+  "1504023762": {
+    "relax": true,
+    "asmr": true,
+    "length": 5,
+    "message": "no goal specified"
   }
 }
