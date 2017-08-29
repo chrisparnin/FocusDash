@@ -3792,5 +3792,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "workshop"
+  },
+  "1504009759": {
+    "relax": true,
+    "asmr": true,
+    "length": 5,
+    "message": "no goal specified"
   }
 }
