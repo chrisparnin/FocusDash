@@ -3887,5 +3887,10 @@
     "asmr": true,
     "length": 5,
     "message": "no goal specified"
+  },
+  "1504817815": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "reading some ASE related work"
   }
 }
