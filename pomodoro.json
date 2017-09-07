@@ -3876,5 +3876,10 @@
   "1504640406": {
     "pomodoro": true,
     "message": "start"
+  },
+  "1504804910": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "reading some ASE related work"
   }
 }
