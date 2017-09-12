@@ -3931,5 +3931,10 @@
     "asmr": true,
     "length": 5,
     "message": "no goal specified"
+  },
+  "1505234574": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "contacts"
   }
 }
