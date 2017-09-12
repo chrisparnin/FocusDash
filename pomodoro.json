@@ -3908,5 +3908,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "chores"
+  },
+  "1505220377": {
+    "relax": true,
+    "asmr": true,
+    "length": 5,
+    "message": "no goal specified"
   }
 }
