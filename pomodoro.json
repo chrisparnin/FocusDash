@@ -3942,5 +3942,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1505317134": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "chi"
   }
 }
