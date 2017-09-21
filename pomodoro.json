@@ -3975,5 +3975,10 @@
     "asmr": true,
     "length": 5,
     "message": "no goal specified"
+  },
+  "1506002530": {
+    "solid": true,
+    "length": 10,
+    "message": "no goal specified"
   }
 }
