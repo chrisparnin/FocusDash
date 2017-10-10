@@ -3998,5 +3998,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1507640155": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "classops"
   }
 }
