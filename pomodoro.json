@@ -4003,5 +4003,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "classops"
+  },
+  "1507837062": {
+    "length": 15,
+    "solid": true,
+    "message": "no goal specified"
   }
 }
