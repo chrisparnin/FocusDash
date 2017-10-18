@@ -4014,5 +4014,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1508337337": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "annotations"
   }
 }
