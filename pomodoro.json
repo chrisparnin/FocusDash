@@ -4029,5 +4029,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "user test run"
+  },
+  "1508767487": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
