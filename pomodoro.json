@@ -4089,5 +4089,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "start"
+  },
+  "1509730427": {
+    "solid": true,
+    "length": 3,
+    "message": "no goal specified"
   }
 }
