@@ -4094,5 +4094,11 @@
     "solid": true,
     "length": 3,
     "message": "no goal specified"
+  },
+  "1509978949": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
