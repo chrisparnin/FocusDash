@@ -4105,5 +4105,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "start"
+  },
+  "1509983200": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "limitations"
   }
 }
