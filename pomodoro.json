@@ -4163,5 +4163,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "research plan start"
+  },
+  "1510504201": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "research plan details"
   }
 }
