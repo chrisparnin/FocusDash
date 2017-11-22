@@ -4255,5 +4255,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1511387143": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "creduce"
   }
 }
