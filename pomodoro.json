@@ -4269,5 +4269,11 @@
   "1511796992": {
     "pomodoro": true,
     "message": "start day"
+  },
+  "1511872771": {
+    "relax": true,
+    "asmr": true,
+    "length": 4,
+    "message": "no goal specified"
   }
 }
