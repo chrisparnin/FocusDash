@@ -4304,5 +4304,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1511985285": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "running script with docker"
   }
 }
