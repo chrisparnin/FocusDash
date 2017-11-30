@@ -4309,5 +4309,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "running script with docker"
+  },
+  "1512052577": {
+    "relax": true,
+    "asmr": true,
+    "length": 4,
+    "message": "no goal specified"
   }
 }
