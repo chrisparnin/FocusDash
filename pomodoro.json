@@ -4315,5 +4315,10 @@
     "asmr": true,
     "length": 4,
     "message": "no goal specified"
+  },
+  "1512052864": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "nomad prep"
   }
 }
