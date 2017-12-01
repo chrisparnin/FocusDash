@@ -4326,5 +4326,10 @@
     "asmr": true,
     "length": 4,
     "message": "no goal specified"
+  },
+  "1512141908": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "planning"
   }
 }
