@@ -4386,5 +4386,10 @@
     "asmr": true,
     "length": 4,
     "message": "no goal specified"
+  },
+  "1513184068": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "some work"
   }
 }
