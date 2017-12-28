@@ -4414,5 +4414,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1514472405": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "nopol"
   }
 }
