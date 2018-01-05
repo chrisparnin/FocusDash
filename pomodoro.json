@@ -4453,5 +4453,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1515165918": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "keys directive"
   }
 }
