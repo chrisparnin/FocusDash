@@ -4502,5 +4502,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "hw0"
+  },
+  "1515706903": {
+    "solid": true,
+    "length": 3,
+    "message": "no goal specified"
   }
 }
