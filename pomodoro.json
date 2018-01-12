@@ -4507,5 +4507,11 @@
     "solid": true,
     "length": 3,
     "message": "no goal specified"
+  },
+  "1515767846": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
