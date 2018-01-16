@@ -4535,5 +4535,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "rest"
+  },
+  "1516125595": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "rest finish"
   }
 }
