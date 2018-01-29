@@ -4593,5 +4593,10 @@
     "relax": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1517245058": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "5.2"
   }
 }
