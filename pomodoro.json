@@ -4679,5 +4679,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "devops fixes"
+  },
+  "1517929010": {
+    "solid": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
