@@ -4708,5 +4708,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1518035706": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "course infra"
   }
 }
