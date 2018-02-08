@@ -4725,5 +4725,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1518100523": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "docker"
   }
 }
