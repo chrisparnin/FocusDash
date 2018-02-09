@@ -4758,5 +4758,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "mooc intro"
+  },
+  "1518196115": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
