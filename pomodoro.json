@@ -4780,5 +4780,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "structure results"
+  },
+  "1518453726": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "finish training workshops"
   }
 }
