@@ -4813,5 +4813,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1518793968": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "read nii"
   }
 }
