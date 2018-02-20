@@ -4829,5 +4829,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "participants"
+  },
+  "1519147245": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
