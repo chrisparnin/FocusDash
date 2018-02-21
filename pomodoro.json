@@ -4846,5 +4846,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "GI"
+  },
+  "1519239606": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
