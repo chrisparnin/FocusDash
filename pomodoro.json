@@ -4841,5 +4841,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1519225070": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "GI"
   }
 }
