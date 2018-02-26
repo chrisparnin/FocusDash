@@ -4871,5 +4871,11 @@
   "1519310040": {
     "pomodoro": true,
     "message": "workshop"
+  },
+  "1519657066": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
