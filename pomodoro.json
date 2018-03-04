@@ -4923,5 +4923,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "fix deployment"
+  },
+  "1520176084": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
