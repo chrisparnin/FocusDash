@@ -4949,5 +4949,11 @@
   "1520269965": {
     "pomodoro": true,
     "message": "figure out remote execution..."
+  },
+  "1520273496": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
