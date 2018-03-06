@@ -4959,5 +4959,11 @@
   "1520274030": {
     "pomodoro": true,
     "message": "figure out cluster"
+  },
+  "1520346652": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
