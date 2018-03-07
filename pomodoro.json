@@ -4979,5 +4979,11 @@
   "1520368657": {
     "pomodoro": true,
     "message": "baker info"
+  },
+  "1520431131": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
