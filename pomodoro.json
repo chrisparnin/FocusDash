@@ -5009,5 +5009,10 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1520945160": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "infrastructure"
   }
 }
