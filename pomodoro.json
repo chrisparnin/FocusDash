@@ -5058,5 +5058,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "clean up"
+  },
+  "1522177059": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
