@@ -5069,5 +5069,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "anything"
+  },
+  "1522329644": {
+    "relax": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
