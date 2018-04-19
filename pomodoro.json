@@ -5113,5 +5113,10 @@
     "pomodoro": true,
     "tick": true,
     "message": "chaos workshop"
+  },
+  "1524146150": {
+    "solid": true,
+    "length": 18,
+    "message": "no goal specified"
   }
 }
