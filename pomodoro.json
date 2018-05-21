@@ -5142,5 +5142,13 @@
     "asmr": true,
     "length": 8,
     "message": "no goal specified"
+  },
+  "1526914750": {
+    "pomodoro": true,
+    "message": "devops"
+  },
+  "1526914824": {
+    "pomodoro": true,
+    "message": "devops"
   }
 }
