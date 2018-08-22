@@ -5154,5 +5154,10 @@
   "1526920916": {
     "pomodoro": true,
     "message": "fix up tools/culture"
+  },
+  "1534942710": {
+    "relax": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
