@@ -5163,5 +5163,10 @@
   "1536152073": {
     "pomodoro": true,
     "message": "no goal specified"
+  },
+  "1536152085": {
+    "pomodoro": true,
+    "tick": true,
+    "message": "no goal specified"
   }
 }
