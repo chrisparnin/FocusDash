@@ -5189,5 +5189,11 @@
     "pomodoro": true,
     "tick": true,
     "message": "prepare II"
+  },
+  "1537448619": {
+    "relax": true,
+    "asmr": true,
+    "length": 8,
+    "message": "no goal specified"
   }
 }
